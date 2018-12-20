@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MyToken.iml" filepath="$PROJECT_DIR$/.idea/MyToken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytoken-admin/mytoken-admin.iml" filepath="$PROJECT_DIR$/mytoken-admin/mytoken-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/mytoken-config/mytoken-config.iml" filepath="$PROJECT_DIR$/mytoken-config/mytoken-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/mytoken-dependencies/mytoken-dependencies.iml" filepath="$PROJECT_DIR$/mytoken-dependencies/mytoken-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/mytoken-eureka/mytoken-eureka.iml" filepath="$PROJECT_DIR$/mytoken-eureka/mytoken-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytoken-zipkin/mytoken-zipkin.iml" filepath="$PROJECT_DIR$/mytoken-zipkin/mytoken-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytoken-zuul/mytoken-zuul.iml" filepath="$PROJECT_DIR$/mytoken-zuul/mytoken-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/mytoken-config/mytonken-config.iml" filepath="$PROJECT_DIR$/mytoken-config/mytonken-config.iml" />
     </modules>
   </component>

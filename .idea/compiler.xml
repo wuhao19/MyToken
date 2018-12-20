@@ -6,22 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mytoken-admin" />
         <module name="mytoken-config" />
         <module name="mytoken-eureka" />
+        <module name="mytoken-zipkin" />
+        <module name="mytoken-zuul" />
         <module name="mytonken-config" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="mytoken-admin" target="1.8" />
       <module name="mytoken-config" target="1.8" />
       <module name="mytoken-dependencies" target="1.8" />
       <module name="mytoken-eureka" target="1.8" />
+      <module name="mytoken-zipkin" target="1.8" />
+      <module name="mytoken-zuul" target="1.8" />
       <module name="mytonken-config" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mytoken-admin" options="-parameters" />
       <module name="mytoken-config" options="-parameters" />
       <module name="mytoken-eureka" options="-parameters" />
+      <module name="mytoken-zipkin" options="-parameters" />
+      <module name="mytoken-zuul" options="-parameters" />
       <module name="mytonken-config" options="-parameters" />
     </option>
   </component>

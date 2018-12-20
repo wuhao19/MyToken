@@ -4,16 +4,16 @@ spring:
   boot:
     admin:
       client:
-        url: http://localhost:8084
+        url: http://192.168.75.130:8084
   zipkin:
-    base-url: http://localhost:9411
+    base-url: http://192.168.75.130:9411
 
 server:
   port: 8761
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: 192.168.75.130
   client:
     registerWithEureka: false
     fetchRegistry: false
