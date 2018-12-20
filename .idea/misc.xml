@@ -7,11 +7,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/mytoken-dependencies/pom.xml" />
-        <option value="$PROJECT_DIR$/mytoken-config/pom.xml" />
         <option value="$PROJECT_DIR$/mytoken-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/mytoken-zipkin/pom.xml" />
         <option value="$PROJECT_DIR$/mytoken-admin/pom.xml" />
         <option value="$PROJECT_DIR$/mytoken-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/mytoken-config/pom.xml" />
       </list>
     </option>
   </component>

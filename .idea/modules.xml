@@ -9,7 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/mytoken-eureka/mytoken-eureka.iml" filepath="$PROJECT_DIR$/mytoken-eureka/mytoken-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/mytoken-zipkin/mytoken-zipkin.iml" filepath="$PROJECT_DIR$/mytoken-zipkin/mytoken-zipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/mytoken-zuul/mytoken-zuul.iml" filepath="$PROJECT_DIR$/mytoken-zuul/mytoken-zuul.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mytoken-config/mytonken-config.iml" filepath="$PROJECT_DIR$/mytoken-config/mytonken-config.iml" />
     </modules>
   </component>
 </project>

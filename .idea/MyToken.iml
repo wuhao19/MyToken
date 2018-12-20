@@ -4,8 +4,6 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/mytoken-config/src/main/java/com.wuhao.mytoken.config" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/mytoken-config/src/main/resource" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/mytoken-config/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/mytoken-admin/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/mytoken-admin/src/main/resource" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/mytoken-zuul/src/main/java" isTestSource="false" />
