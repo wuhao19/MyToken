@@ -2,7 +2,7 @@ spring:
   application:
     name: mytoken-admin
   zipkin:
-    base-url: http://192.168.75.130:9411
+    base-url: http://192.168.75.131:9411
 
 server:
   port: 8084
@@ -10,7 +10,7 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://192.168.75.130:8761/eureka/
+      defaultZone: http://192.168.75.131:8761/eureka/
 
 management:
   endpoint:
